@@ -2,7 +2,7 @@
 
 Sistema profesional de gestión para auditorías de red automatizadas utilizando Nmap. Nmap Manager facilita la ejecución de escaneos de seguridad de red, organizando los resultados de manera estructurada y generando reportes completos en formato HTML.
 
-p align="center">
+<p align="center">
 
 
   <img src="img/image.png" alt="Imagen de el menu de Nmap Manager" width="850">
