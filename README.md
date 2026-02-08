@@ -1,8 +1,14 @@
 # Nmap Manager
 
-![Banner de Nmap Manager](image.png)
-
 Sistema profesional de gestión para auditorías de red automatizadas utilizando Nmap. Nmap Manager facilita la ejecución de escaneos de seguridad de red, organizando los resultados de manera estructurada y generando reportes completos en formato HTML.
+
+p align="center">
+
+
+  <img src="img/image.png" alt="Imagen de el menu de Nmap Manager" width="850">
+
+
+</p>
 
 ## Características Principales
 
@@ -169,23 +175,6 @@ El script incluye optimizaciones para reducir el tiempo de escaneo:
 
 **Nota**: Los escaneos completos (opción 2 y 12) pueden tardar considerablemente dependiendo del tamaño de la red.
 
-## Estructura del Proyecto
-
-```
-nmap_manager/
-├── nmapmanager.sh          # Script principal
-├── scripts/
-│   ├── opt1.sh             # Menú de opciones de escaneo
-│   ├── log.sh              # Visualización del banner
-│   ├── requeriments-deb.sh # Instalador para Debian
-│   └── requeriments-arch.sh# Instalador para Arch
-├── log/
-│   ├── log-menu            # Banner del menú principal
-│   └── log-requeriments    # Banner del instalador
-└── logs/
-    └── audit_metadata.log  # Logs de auditorías
-```
-
 ## Avisos Legales
 
  **IMPORTANTE**: Esta herramienta está diseñada para auditorías de seguridad autorizadas únicamente.
@@ -214,4 +203,9 @@ nmap_manager/
 
 ---
 
-**Nmap Manager v2.0** - Haciendo las auditorías de red más simples y profesionales.
+## Licencia y Autor
+
+Este proyecto ha sido creado por **Jason Caballero (whoamijas0n)**.
+
+
+
