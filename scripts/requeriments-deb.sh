@@ -236,7 +236,6 @@ declare -a paquetes=(
     "nmap"
     "figlet"
     "tree"
-    "macchanger"
 )
 
 # Contador de errores
@@ -260,8 +259,6 @@ echo ""
 verificar_instalacion "nmap"
 verificar_instalacion "figlet"
 verificar_instalacion "tree"
-verificar_instalacion "macchanger"
-
 
 echo ""
 
